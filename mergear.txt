@@ -1,1 +1,1 @@
-remoto master
+practicas en remoto de la rama master.
