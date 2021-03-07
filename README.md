@@ -1,1 +1,1 @@
-# learning-github and testing fearures
+# learning-github and testing features
