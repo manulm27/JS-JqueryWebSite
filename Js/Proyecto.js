@@ -6,7 +6,7 @@ $(document).ready(function(){
 //Slider
 
 //Condicion con metodo de busqueda de un valor especificado en la llamada a la url (window.location.href)
-  if(window.location.href.indexOf('Proyecto.html') > -1){
+  if(window.location.href.indexOf('index.html') > -1){
 	$('.slider').bxSlider({
 		mode: 'fade',
 		captions: true,
@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 //Contenido de la pagina (Post) en formato JSON
 
-  if(window.location.href.indexOf('Proyecto.html') > -1){
+  if(window.location.href.indexOf('index.html') > -1){
     var posts = [
         {
         	title: 'Practica JS 1',
