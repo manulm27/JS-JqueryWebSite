@@ -6,7 +6,7 @@ $(document).ready(function(){
 //Slider
 
 //Condicion con metodo de busqueda de un valor especificado en la llamada a la url (window.location.href)
-  if(window.location.href.indexOf('git') > -1){
+  if(window.location.href === 'https://manulm27.github.io/developInGit/'){
 	$('.slider').bxSlider({
 		mode: 'fade',
 		captions: true,
@@ -17,7 +17,7 @@ $(document).ready(function(){
 
 //Contenido de la pagina (Post) en formato JSON
 
-  if(window.location.href.indexOf('git') > -1){
+  if(window.location.href.indexOf === 'https://manulm27.github.io/developInGit/'){
     var posts = [
         {
         	title: 'Practica JS 1',
