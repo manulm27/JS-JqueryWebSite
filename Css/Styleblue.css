@@ -1,0 +1,38 @@
+body{
+	background: url('../Img/Fondo5.jpg');
+	background-attachment: fixed;
+}
+
+#logo{
+	background: #0e4bef;
+}
+
+#menu{
+	background: #828282;
+}
+
+#menu ul li:hover{
+	background: #3f5cff;
+}
+
+#post a{
+	background: #3f5cff;
+}
+
+#login h3{
+	background: #0e4bef;
+}
+
+form input[type="submit"]:hover{
+	background: #3f5cff;
+	border: 1px solid #0e4bef;
+}
+
+#date{
+	border: 4px solid #0e4bef;
+	background: #869ef8;
+}
+
+select:hover{
+    background: #3f5cff;
+}
